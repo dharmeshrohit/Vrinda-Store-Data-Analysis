@@ -25,7 +25,7 @@ The Vrinda Store wants to generate an annual sales report for 2022. This will he
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-![Alt Text](Screenshot_20250207-122410_M365%20Copilot.png)
+![Dashboard.png](https://github.com/dharmeshrohit/Vrinda-Store-Data-Analysis/blob/4883035e6937029e28ed977476a1c77862aabcc3/Dashboard.png)
 
 ## Project Insights 
 - Women customers are more likely to buy products compared to men (~65%).
