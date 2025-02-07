@@ -6,6 +6,9 @@ The Vrinda Store wants to generate an annual sales report for 2022. This will he
 ## Dataset used
 - [Vrinda Store Dataset](https://github.com/dharmeshrohit/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dataset.xlsx)
 
+## Data Analysis
+- [Vrinda Store Data Analysis](https://github.com/dharmeshrohit/Vrinda-Store-Data-Analysis/blob/ceb609c601524a4d515bc366f8cd82ce541a7513/Vrinda%20Store%20Data%20Analysis.xlsx)
+  
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
